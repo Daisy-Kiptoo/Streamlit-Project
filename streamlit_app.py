@@ -1,5 +1,6 @@
 import streamlit as st
 import pickle
+import streamlit_option_menu
 from streamlit_option_menu import option_menu
 
 # loading the saved model
